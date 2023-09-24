@@ -12,9 +12,9 @@
 ### Пускане на проекта
 
 ```
-  cd expenses-app
-  npm install
-  npm run dev // вместо npm start понеже проекта е инициализиран с vite, вместо create-react-app
+cd expenses-app
+npm install
+npm run dev // вместо npm start понеже проекта е инициализиран с vite, вместо create-react-app
 ```
 
 ### Screenshot
