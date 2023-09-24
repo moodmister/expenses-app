@@ -12,6 +12,7 @@
 ### Пускане на проекта
 
 ```bash
+git clone https://github.com/moodmister/expenses-app.git
 cd expenses-app
 npm install
 npm run dev # вместо npm start понеже проекта е инициализиран с vite, вместо create-react-app
